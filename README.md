@@ -11,7 +11,7 @@ Our engineering process works well if it exhibits these traits:
 * **Emerging standards:** Instead of overthinking our process we should strive for adding and evolving practices as we see need for them, try things out and iterate on it.
 
 ## Specific Needs
-* Roadmap: we should have a roadmap that we can communicate to our stakeholders
+* Roadmap: we want to have a roadmap that we can communicate to our stakeholders
 * Our process should allow for rebalancing capacity when an effort needs more attention
 * We want a small core team at Centrifuge Inc. but in the foreseeable future other teams will take over other parts of the development. 
 * Our architecture needs to support the values we set ourselves for the engineering team (accountability, empowerment, focused,...).
@@ -41,10 +41,10 @@ Circles involve stakeholders and/or the entire tribe to declare & coordinate dep
 Meetings:
 * **Tribe Gathering:** a long (2hrs - a full day) share the roadmap and discuss product vision, as needed, at least every 2 months. 
 * **Tribe Retrospective:** monthly meeting to come together and reflect on our process and how we work together
-* **Epic:** keep it short, use this meeting to update external people on the progress, the decisions that have been made or still need to be made and bring up any topics for discussions. Any stakeholders as well as other people that work on tangential topics should be invited to attend.
-* **Shipped Meeting:**
-* **Tribe Grooming:** (working title - @lucasvo finds a better name): biweekly. Also, @lucasvo and @pstehlik meet in the off-weeks to prepare the unplanned tickets for the grooming.
-* **Standup** (tribe-level for now): Daily
+* **Epic Review:** keep it short, use this meeting to update external people on the progress, the decisions that have been made or still need to be made and bring up any topics for discussions. Any stakeholders as well as other people that work on tangential topics should be invited to attend.
+* **Shipped Meeting:** A meeting to share the stuff that has been shipped with the tribe. Show off what you've done. 
+* **House Keeping:** biweekly. If neccessary, circles and management can meet in the off-weeks to prepare the unplanned tickets for the meeting.
+* **Standup** (tribe-level for now): Daily standup to get a pulse on things, mention blockers and keep in sync.
 
 Work inside of circles:
 Feel free to structure the work as needed. Some efforts might require more structure while others less. If you want to create a slack channel for your circle, feel free to do so. If you'd rather do daily standups, you can do that.
@@ -53,9 +53,9 @@ Prioritization:
 When planning an epic, a circle commits to a rough vision and scope for what should be implemented as well as a timeline for these deliverables. It's the circle's responsibility to make sure that every effort is made to focus on a force ranked list of features and escalate to the tribe if delivering the must haves in time is at risk. At a more fine grained level, circles are free to prioritize and plan within the scope of their projects as needed. 
 
 ## Running efficient meetings [WIP]
-Have an agenda
-prepare for meetings, share materials beforehand if possible
-When deviating from the agenda, ask the question: does it make sense to discuss that now in this group? Or can this be a smaller group?
+* Have an agenda
+* Prepare for meetings, share materials beforehand if possible
+* When deviating from the agenda, ask the question: does it make sense to discuss that now in this group? Or can this be a smaller group?
 
 ## Resources
 * [GitLab Handbook](https://about.gitlab.com/handbook/)
