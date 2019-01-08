@@ -32,6 +32,10 @@ Some resources for you to go next:
   In general, read as many [blog posts](https://medium.com/centrifuge) as you wish.
 * [Follow and check out](https://twitter.com/centrifuge) our Twitter account
 
-## Follow the team specific onboarding materials, if there are any
-Head over to team specific onboarding tasks:
+## Scheduling time to talk to your team
+When joining, your manager will suggest a few people to talk to. Ask them what a convenient time is for them to meet and talk about their work, tips on how to get started or whatever else you want. Make some friends at Centrifuge!
+
+
+## Team specific materials
+Head over to team specific onboarding tasks (if there are any):
 * [Engineering](../engineering.md)
