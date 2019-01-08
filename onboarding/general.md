@@ -3,7 +3,7 @@ Welcome to Centrifuge! We’re excited to have you on board. This document is me
 your first week(s) at our amazing company.
 
 ## Security
-Before setting up any of the tools, head over to our [security policy](../it/security.md) and give it a 
+Before setting up any of the tools, head over to our [security policy](../security/README.md) and give it a 
 thorough read and keep it in mind when setting up accounts & password.
 
 ## Tools & Systems
@@ -25,7 +25,6 @@ You should have have access to:
 ## Where to go from there
 Some resources for you to go next:
 * Check out our repos on Github: [Centrifuge](https://github.com/centrifuge/) (open source), [CentrifugeInc](https://github.com/CentrifugeInc/) (company stuff)
-* Set up your shared folder structure and start browsing around
 * Read our investor’s blog posts on their investment in Centrifuge ([Mosaic](http://www.mosaicventures.com/mosaicblog/2018/3/5/why-we-invested-in-centrifuge-and-a-short-love-letter-to-crypto-in-berlin-) 
   and [BlueYard](https://medium.com/@BlueYard/centrifuge-1fcf8e8e76cd))
 * Read the white paper, again ;-)
