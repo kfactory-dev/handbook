@@ -1,4 +1,4 @@
-# Centrifuge Handbook - Defining how our company works and ohow we work together
+# Centrifuge Handbook - Defining how our company works and how we work together
 
 ## Contents
 ### Engineering
