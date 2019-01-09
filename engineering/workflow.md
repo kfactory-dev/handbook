@@ -9,7 +9,7 @@ First, fork the repo that you will be working on to your local machine
 $ git clone git@github.com:USERNAME/FORKED-PROJECT.git
 ```
 
-##Keep Your Fork Up to Date
+## Keep Your Fork Up to Date
 
 These steps ensure that you are working on the latest version of the repo
 
@@ -35,7 +35,7 @@ $ git checkout <BRANCH>
 $ git merge upstream/<BRANCH>
 ```
 
-##Submitting Pull Requests
+## Submitting Pull Requests
 
 Please branch off your own repo and commit any changes to this branch. When you have pushed this branch to your forked repo, you may submit a pull request to the upstream repo.
 
