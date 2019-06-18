@@ -9,6 +9,7 @@
 2. [Pre-Boarding](onboarding/preboarding.md)
 ### Security
 1. [README](security/readme.md)
-
+### Workplace
+1. [Remote Work](workplace/remote_work.md)
 ## Resources
 * Inspiration from: [GitLab Handbook](https://about.gitlab.com/handbook/)
