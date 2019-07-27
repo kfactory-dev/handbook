@@ -7,6 +7,7 @@
 ### Onboarding
 1. [General](onboarding/general.md)
 2. [Pre-Boarding](onboarding/preboarding.md)
+3. [Engineering](onboarding/engineering.md)
 ### Security
 1. [README](security/readme.md)
 ### Workplace
