@@ -38,4 +38,4 @@ When joining, your manager will suggest a few people to talk to. Ask them what a
 
 ## Team specific materials
 Head over to team specific onboarding tasks (if there are any):
-* [Engineering](../engineering.md)
+* [Engineering](engineering.md)
