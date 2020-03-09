@@ -14,22 +14,23 @@ We are working in the crypto-world. We will get hacked. Let’s not make it easy
 Read our [security policy](../it/security.md) and make sure to keep it in mind.
 
 You should have have access to:
-* 1Password (sign up with the invite, Martin, Philip or Maex will approve)
+* 1Password (sign up with the invite, Martin or Lucas will approve)
 * Slack (you should have an invite in your mailbox)
 * Expensify (Aubry should add you here)
 
 ## Making things official
-* Send a picture of yourself to Maya so you can be included on our website’s team section 
+* Send a picture of yourself to Dennis so you can be included on our website’s team section 
 * Update your profiles to be linked to Centrifuge, if you feel like it, own one etc.: LinkedIn, Angel.co, Facebook, twitter, scuttlebutt
 
 ## Where to go from there
-Some resources for you to go next:
-* Check out our repos on Github: [Centrifuge](https://github.com/centrifuge/) (open source), [CentrifugeInc](https://github.com/CentrifugeInc/) (company stuff)
-* Read our investor’s blog posts on their investment in Centrifuge ([Mosaic](http://www.mosaicventures.com/mosaicblog/2018/3/5/why-we-invested-in-centrifuge-and-a-short-love-letter-to-crypto-in-berlin-) 
-  and [BlueYard](https://medium.com/@BlueYard/centrifuge-1fcf8e8e76cd))
-* Read about our [mission and vision](https://medium.com/centrifuge/finding-a-mission-to-drive-the-vision-529e38e343a). 
-  In general, read as many [blog posts](https://medium.com/centrifuge) as you wish.
-* [Follow and check out](https://twitter.com/centrifuge) our Twitter account
+### Information on Centrifuge
+* Read some of our most recent [tweets](https://twitter.com/centrifuge) and follow us. Find some of the more recent events we've been to (we usually tweet about them). Find a few recordings to watch to learn what's going on.
+* Watch the 2-4 most recent [What's Up Centrifuge Meetings](https://drive.google.com/drive/folders/1BG53gVKi4FBzbkJXTjdMEQw3eLrf8GYp)
+* Look at our thematic goals. That's one of the slides in every What's Up Centrifuge meeting.
+
+### Code
+* Check out our code on [github.com/centrifuge](https://github.com/centrifuge)
+* Read the docs on [developer.centrifuge.io](https://developer.centrifuge.io)
 
 ## Scheduling time to talk to your team
 When joining, your manager will suggest a few people to talk to. Ask them what a convenient time is for them to meet and talk about their work, tips on how to get started or whatever else you want. Make some friends at Centrifuge!
