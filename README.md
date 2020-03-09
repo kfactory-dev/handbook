@@ -9,7 +9,7 @@
 2. [Pre-Boarding](onboarding/preboarding.md)
 3. [Engineering](onboarding/engineering.md)
 ### Security
-1. [README](security/readme.md)
+1. [README](security/README.md)
 ### Workplace
 1. [Remote Work](workplace/remote_work.md)
 ## Resources
