@@ -17,6 +17,7 @@ But for now we’ll stick to the easy things:
 * Use a password manager with auto-generated passwords for ALL of your accounts
   * 20 chars minimum. Letters, numbers, special chars
   * Set up 2-factor authentication for any service that supports it (GSuite, Slack, Github,...)
+  * For 2-factor authentication we recommend using Authy instead of Google Authenticator as it does not support any backup
 * Encrypt your Computer / Laptop
   * Click Apple menu, System Preferences, then select Security & Privacy.
   * Select the FileVault tab.
