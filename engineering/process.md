@@ -37,14 +37,11 @@ At the highest level, we have to have an overview over everything that's going o
 Circles involve stakeholders and/or the entire tribe to declare & coordinate dependencies, schedules and priorities. Those meetings don't need to be at the level of detail of fine grained sand, talking about pebbles or even rocks is enough. In practice this means, if there are decisions to make, prepare the available options, collect advantages and disadvantages and then use the meeting to discuss practical, actionable decisions instead of hypotheticals. Present enough information for everyone to follow. 
 
 ## Roadmap & Planning
-### Proposal for Tribe & Circles
-Meetings:
-* **Tribe Gathering:** a long (2hrs - a full day) share the roadmap and discuss product vision, as needed, at least every 2 months. 
-* **Tribe Retrospective:** monthly meeting to come together and reflect on our process and how we work together
-* **Epic Review:** keep it short, use this meeting to update external people on the progress, the decisions that have been made or still need to be made and bring up any topics for discussions. Any stakeholders as well as other people that work on tangential topics should be invited to attend.
-* **Shipped Meeting:** A meeting to share the stuff that has been shipped with the tribe. Show off what you've done. 
-* **House Keeping:** biweekly. If neccessary, circles and management can meet in the off-weeks to prepare the unplanned tickets for the meeting.
-* **Standup** (tribe-level for now): Daily standup to get a pulse on things, mention blockers and keep in sync.
+* **Circle updates:** a 30min weekly meeting where every circle shares what has been shipped in the past week, what the circle will focus on the next week, what important dates and events lie ahead as well as other informatin that is relevant for other circles.
+* **Roadmap Planning:** a long (2hrs) monthly meeting to discuss product vision and roadmap and prioritse the items in the [product roadmap](https://airtable.com/tbl46g28QuXmRM9LM/viwTz7iXmm7o3Qt3r?blocks=hide)
+* **Dev/Engeneering Retrospective:** a bi-monthly meeting to come together and reflect on our process and how we work together and can improve communication and collaboration
+* **Standup** (optional on circle-level for now): Daily standup to get a pulse on things, mention blockers and keep in sync.
+* **Engeneering days:** long workshops (usually a day) with changing agenda to align on how we organise our work and what we will work on in the next months. Results feed into the Roadmap Planning.
 
 Work inside of circles:
 Feel free to structure the work as needed. Some efforts might require more structure while others less. If you want to create a slack channel for your circle, feel free to do so. If you'd rather do daily standups, you can do that.
@@ -52,10 +49,12 @@ Feel free to structure the work as needed. Some efforts might require more struc
 Prioritization:
 When planning an epic, a circle commits to a rough vision and scope for what should be implemented as well as a timeline for these deliverables. It's the circle's responsibility to make sure that every effort is made to focus on a force ranked list of features and escalate to the tribe if delivering the must haves in time is at risk. At a more fine grained level, circles are free to prioritize and plan within the scope of their projects as needed. 
 
-## Running efficient meetings [WIP]
+## Running efficient meetings
 * Have an agenda
 * Prepare for meetings, share materials beforehand if possible
+* Include conferencing options for remote teammembers
 * When deviating from the agenda, ask the question: does it make sense to discuss that now in this group? Or can this be a smaller group?
+* Use running notes where feasible
 
 ## Resources
 * [Stripe: Scaling Engineering](https://stripe.com/atlas/guides/scaling-eng)
