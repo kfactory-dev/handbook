@@ -16,7 +16,13 @@ Read our [security policy](../it/security.md) and make sure to keep it in mind.
 You should have have access to:
 * 1Password (sign up with the invite, Martin or Lucas will approve)
 * Slack (you should have an invite in your mailbox)
+* HackMD
 * Expensify (Aubry should add you here)
+
+### HackMD & Github
+We use both HackMD and Github for stuff other than just code (e.g. this repo). We heavily rely on Markdown, a simple text formatting tool. If you are unfamiliar with Markdown, you can take a tutorial here: https://www.markdowntutorial.com/ HackMD supports many other things not part of the standard Markdown syntax, you can look at all features here: https://hackmd.io/features?both
+
+If you are not familiar with Github and git, the easiest way to use Git is using the [Github Desktop App](https://help.github.com/en/desktop/getting-started-with-github-desktop).
 
 ## Making things official
 * Send a picture of yourself to Dennis so you can be included on our website’s team section 
