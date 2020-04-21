@@ -14,7 +14,7 @@ We are working in the crypto-world. We will get hacked. Let’s not make it easy
 Read our [security policy](../it/security.md) and make sure to keep it in mind.
 
 You should have have access to:
-* 1Password (sign up with the invite, Martin or Lucas will approve)
+* 1Password: sign in with this [link](https://centrifuge.1password.com/teamjoin/invitation/5AKDCBAIF5GT3FEUZNQSJ4C2JY)
 * Slack (you should have an invite in your mailbox)
 * HackMD
 * Expensify (Aubry should add you here)
