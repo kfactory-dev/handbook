@@ -1,7 +1,16 @@
-# Our development workflow 
+---
+id: workflow
+order: 2
+title: Workflow
+category: 1. Engineering
+---
+
+# Our development workflow
+
 The Centrifuge protocol and products are built using a specific workflow. The repos located in the [CentrifugeInc](https://github.com/CentrifugeInc) organisation will be specific to organisation-related projects; repos located in the [Centrifuge](https://github.com/centrifuge) organisation are protocol/product related projects.
 
 ## Creating a fork
+
 First, fork the repo that you will be working on to your local machine
 
 ```bash
@@ -27,6 +36,7 @@ Whenever you want to update your fork with the latest upstream changes, you'll n
 # Fetch from upstream remote
 $ git fetch upstream
 ```
+
 Now, checkout your own branch and merge the corresponding upstream branch:
 
 ```bash
@@ -38,4 +48,3 @@ $ git merge upstream/<BRANCH>
 ## Submitting Pull Requests
 
 Please branch off your own repo and commit any changes to this branch. When you have pushed this branch to your forked repo, you may submit a pull request to the upstream repo.
-
