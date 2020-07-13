@@ -3,6 +3,8 @@ id: process
 order: 1
 title: Process
 category: 1. Engineering
+redirect_from:
+  - /
 ---
 
 # Our engineering process

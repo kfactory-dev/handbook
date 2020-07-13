@@ -82,7 +82,7 @@ exports.createPages = ({ graphql, actions }) => {
             path: node.fields.slug,
 
             // This component will wrap our MDX content
-            component: path.resolve(`./src/components/DocsLayout/index.js`),
+            component: path.resolve(`./src/SiteLayout.js`),
 
             // We can use the values in this context in
             // our page layout component

@@ -49,22 +49,22 @@ module.exports = {
         ],
       },
     },
-    // {
-    //   resolve: "gatsby-redirect-from",
-    //   options: {
-    //     query: "allMdx"
-    //   }
-    // },
-    // "gatsby-plugin-meta-redirect",
+    {
+      resolve: "gatsby-redirect-from",
+      options: {
+        query: "allMdx",
+      },
+    },
+    "gatsby-plugin-meta-redirect",
     `gatsby-plugin-sitemap`,
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-catch-links`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `centrifuge-developers`,
-        short_name: `centrifuge`,
-        start_url: `/cent-node/overview/introduction/`,
+        name: `centrifuge-handbook`,
+        short_name: `handbook`,
+        start_url: `/handbook/engineering/process/`,
         background_color: `#fff`,
         theme_color: `#2762ff`,
         display: `minimal-ui`,
