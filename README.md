@@ -10,7 +10,7 @@
 ### Security
 1. [Security Policy](docs/security/policies.md)
 ### Workplace
-1. [Remote Work](docs/workplace/remote_work.md)
+1. [Remote Work](docs/workplace/remote.md)
 ### Engineering
 1. [Process](docs/engineering/process.md)
 2. [Workflow](docs/engineering/workflow.md)
