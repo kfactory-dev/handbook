@@ -8,7 +8,7 @@
 2. [Pre-Boarding](docs/onboarding/preboarding.md)
 3. [Engineering](docs/onboarding/engineering.md)
 ### Security
-1. [README](docs/security/policies.md)
+1. [Security Policy](docs/security/policies.md)
 ### Workplace
 1. [Remote Work](docs/workplace/remote_work.md)
 ### Engineering
