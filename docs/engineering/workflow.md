@@ -2,7 +2,7 @@
 id: workflow
 order: 2
 title: Workflow
-category: 1. Engineering
+category: 3. Engineering
 ---
 
 # Our development workflow
