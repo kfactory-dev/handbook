@@ -22,16 +22,7 @@ Our engineering process works well if it exhibits these traits:
 ## Specific Needs
 
 - Roadmap: we want to have a roadmap that we can communicate to our stakeholders
-- Our process shoulid 	order 	title 	category 	redirect_from
-process
-	
-1
-	
-Process
-	
-1. Engineering
-	
-/d allow for rebalancing capacity when an effort needs more attention
+- Our process should allow for rebalancing capacity when an effort needs more attention
 - We want a small core team at Centrifuge Inc. but in the foreseeable future other teams will take over other parts of the development.
 - Our architecture needs to support the values we set ourselves for the engineering team (accountability, empowerment, focused,...).
 - The protocol should be developed independently of the rest of the application. We should move towards specifying the rules that define our protocol outside of the general codebase.
