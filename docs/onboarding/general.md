@@ -40,7 +40,7 @@ If you are not familiar with Github and git, the easiest way to use Git is using
 
 ## Making things official
 
-- We want to add you to our team page. Please add your name and answer the intro questions on this [sheet](https://docs.google.com/spreadsheets/d/1Ua1mvKZQKKHXjCt_58-pBFrNHmzjD6EwqbFZtk5F5v8/edit#gid=0)
+- We want to add you to our team page. Please add your name and answer the intro questions on this [sheet](https://docs.google.com/spreadsheets/d/15bjvUCB4aDsogFdgcFs7IzP4eqjX3tpmCdeDfnZNqmg/edit?usp=sharing)
 - Update your profiles to be linked to Centrifuge, if you feel like it, own one etc.: LinkedIn, Angel.co, Facebook, twitter, scuttlebutt
 
 ## Where to go from there
