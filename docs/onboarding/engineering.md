@@ -15,7 +15,7 @@ You will typically have a buddy assigned to help you get started and be your fir
 
 ## Playing the user
 
-As a first step, start acquainting yourself with our tech stack from the user's perspective. Head over to [developer.centrifuge.io](https://developer.centrifuge.io) to read up on installing a Centrifuge node and browse through the documentation. Try to get it up and running and extend the docunmentation if you notice anything amiss.
+As a first step, start acquainting yourself with our tech stack from the user's perspective. Head over to [docs.centrifuge.io](https://docs.centrifuge.io) to read up on installing a Centrifuge node and browse through the documentation. Try to get it up and running and extend the docunmentation if you notice anything amiss.
 
 ## Understanding our process
 
