@@ -7,7 +7,7 @@ category: 1. Engineering
 
 # Our development workflow
 
-The Centrifuge protocol and products are built using a specific workflow. The repos located in the [CentrifugeInc](https://github.com/CentrifugeInc) organisation will be specific to organisation-related projects; repos located in the [Centrifuge](https://github.com/centrifuge) organisation are protocol/product related projects.
+The Centrifuge protocol and products are built using a specific workflow. The repos located in the [k-factory](https://github.com/k-factory) organisation will be specific to organisation-related projects; repos located in the [Centrifuge](https://github.com/centrifuge) organisation are protocol/product related projects.
 
 ## Creating a fork
 
@@ -48,3 +48,6 @@ $ git merge upstream/<BRANCH>
 ## Submitting Pull Requests
 
 Please branch off your own repo and commit any changes to this branch. When you have pushed this branch to your forked repo, you may submit a pull request to the upstream repo.
+
+## Reviewing Pull Requests
+We are pretty strict about requiring PRs to be reviewed by **at least one other person before merging**. Be proactive about communicating who you need a review from and what the PR is about. Vice versa, if someone is asking you for a review, be as helpful as possible and do it at your earlierst convenience to not slow down others too much.
