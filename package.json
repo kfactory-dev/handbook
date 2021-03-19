@@ -1,5 +1,5 @@
 {
-  "name": "developer.centrifuge.io",
+  "name": "k/f handbook",
   "description": "A Decentralized Operating System For The Financial Supply Chain",
   "version": "0.1.0",
   "author": "@centrifuge",
@@ -56,10 +56,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/centrifuge/developer.centrifuge.io.git"
+    "url": "git+https://github.com/centrifugeinc/handbook.git"
   },
   "bugs": {
     "url": "https://github.com/centrifuge/developer.centrifuge.io/issues"
   },
-  "homepage": "https://github.com/centrifuge/developer.centrifuge.io#readme"
+  "homepage": "https://handbook.k-f.co/"
 }
