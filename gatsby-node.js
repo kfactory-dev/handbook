@@ -8,7 +8,9 @@ exports.onCreateNode = (args) => {
   // Add New Fields To GraphQL
   if (node.internal.type === "Mdx") {
     const value = createFilePath({ node, getNode });
-    const instanceName = getNode(node.parent).sourceInstanceName;
+    const parent = getNode(node.parent);
+    const instanceName = parent.sourceInstanceName;
+    
     createNodeField({
       name: `instanceName`,
       node,
