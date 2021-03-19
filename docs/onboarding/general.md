@@ -25,10 +25,12 @@ Read our [security policy](../it/security.md) and make sure to keep it in mind.
 
 You should have have access to:
 
-- 1Password: sign in with this [link](https://centrifuge.1password.com/teamjoin/invitation/5AKDCBAIF5GT3FEUZNQSJ4C2JY)
+- 1Password
 - Slack (you should have an invite in your mailbox)
 - HackMD
 - Expensify (Aubry should add you here)
+
+Please refer to our list of online services you should get set up for (**TODO**) 
 
 ### HackMD & Github
 
@@ -52,7 +54,7 @@ If you are not familiar with Github and git, the easiest way to use Git is using
 ### Code
 
 - Check out our code on [github.com/centrifuge](https://github.com/centrifuge)
-- Read the docs on [developer.centrifuge.io](https://developer.centrifuge.io)
+- Read the docs on [docs.centrifuge.io](https://developer.centrifuge.io)
 
 ## Scheduling time to talk to your team
 
