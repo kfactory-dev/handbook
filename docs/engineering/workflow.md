@@ -7,7 +7,7 @@ category: 1. Engineering
 
 # Our development workflow
 
-The Centrifuge protocol and products are built using a specific workflow. The repos located in the [k-factory](https://github.com/k-factory) organisation will be specific to organisation-related projects; repos located in the [Centrifuge](https://github.com/centrifuge) organisation are protocol/product related projects.
+The Centrifuge protocol and products are built using a specific workflow. The repos located in the [CentrifugeInc](https://github.com/CentrifugeInc) organisation will be specific to organisation-related projects; repos located in the [Centrifuge](https://github.com/centrifuge) organisation are protocol/product related projects.
 
 ## Creating a fork
 
