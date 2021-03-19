@@ -4,8 +4,8 @@
 ### Hiring
 1. [Process and Hiring Circle](https://centrifuge.hackmd.io/ozi15hcqQ8O5C_PRQtUaAg?both)
 ### Onboarding
-1. [General](docs/onboarding/general.md)
-2. [Pre-Boarding](docs/onboarding/preboarding.md)
+1. [Pre-Boarding](docs/onboarding/preboarding.md)
+2. [General](docs/onboarding/general.md)
 3. [Engineering](docs/onboarding/engineering.md)
 ### Security
 1. [Security Policy](docs/security/policies.md)
