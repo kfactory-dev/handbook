@@ -1,3 +1,12 @@
+---
+id: process
+order: 1
+title: Apps Circle
+category: 3. Engineering
+redirect_from:
+  - /
+---
+
 # Apps circle standards/FAQ
 
 The following describes how we want to work together.
