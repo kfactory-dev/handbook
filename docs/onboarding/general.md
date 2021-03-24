@@ -30,7 +30,7 @@ You should have have access to:
 - HackMD
 - Expensify (Aubry should add you here)
 
-Please refer to our list of online services you should get set up for (**TODO**) 
+Please refer to our list of online services you should get set up for (**TODO**)
 
 ### HackMD & Github
 

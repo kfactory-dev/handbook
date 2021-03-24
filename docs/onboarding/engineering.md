@@ -1,6 +1,6 @@
 ---
 id: engineering
-order: 1
+order: 3
 title: Engineering
 category: 2. Onboarding
 ---

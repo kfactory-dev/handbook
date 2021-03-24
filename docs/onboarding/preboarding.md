@@ -1,6 +1,6 @@
 ---
 id: preboarding
-order: 3
+order: 1
 title: Preboarding
 category: 2. Onboarding
 ---
