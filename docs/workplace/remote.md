@@ -5,18 +5,14 @@ title: Remote Work
 category: 4. Workplace
 ---
 
-# A memo on location and collaboration
+# Remote Work: location and collaboration
 
-Centrifuge is at home in Berlin. When we started out, we were 4 people spread across 9 hours of time
-difference and none of us were less than 2hrs of flight time away. It was not ideal but we have worked
-very closely together for many years. Getting on phone calls and traveling to see each other was workable
-but as the team grew, we made the conscious decision to have Berlin as the location for our office for
-our team. Berlin has a vibrant crypto scene, is an easy place to move to, and overall, as most of you
-would probably agree, is a pretty rad place to be. But more importantly, at a stage where we have so
-many questions to still figure out, where we are still working on the foundation of our strategy and our
-products, having a lot of time in the same room is very important.
+Centrifuge started remote only, then was briefly geographically focused
+on Berlin and is spreading out again across the globe. Over the years
+we have experimented with various tools. This page describes some of
+the background and conventions we hold ourselves to.
 
-Now, in the age of broadband and webcams it's very easy to have a somewhat immersive conversation over many
+In the age of broadband and webcams it's very easy to have a somewhat immersive conversation over many
 thousand kilometers but it requires effort and doesn't come close to the real thing. The non-verbal part of
 a meeting gets missed by remote attendees. A study found that 7% of any message is conveyed through words, 38%
 through certain vocal elements, and 55% through nonverbal elements (facial expressions, gestures, posture, etc).
@@ -27,11 +23,9 @@ you respect, who can cheer you up and motivate you is, we believe, a valuable in
 successful venture. Spontaneity is another ingredient that can lead to great results and is very hard to
 replicate in any remote setting.
 
-Centrifuge is at a size where we can act as one coherent tribe, with the dozen or so people we are, it's easy to
-form personal relationships and interact with everyone at work in a way that is not possible anymore when we grow
-into the few dozens to a hundreds. At that point the social fabric of our company won't be as close-knit anymore
-and for merely practical reasons groups will have split up a bit more. How we work together will change when we
-reach that point and some decentralization will start to make sense but let's cross that bridge when we get there.
+The very obvious downside of trying to colocate is that it either requires us to limit our candidate pool to one
+geographic location or ask people to move upon starting a job. You also ask all of your colleagues to spend varying
+amounts of time commuting.
 
 Personal circumstances can change and that could mean moving to another places on this planet. A job should never
 keep you from a happy life. Undoubtedly permanently living in another place will change how you're part of our
@@ -49,10 +43,22 @@ decisions about where you work and how you work on your own. And if you are in d
 it up in the team and ask your peers as working with them is most important and doing that in a way that is
 ideal for both you and your peers should be the goal of these guidelines.
 
-# Here Some Guidelines
 
-If you are not in Berlin putting that info in the team calendar so everyone knows. Especially so if you are on
-a different timezone than the rest.
+## Asynchronous Communication
+We use a few tools to encourage asynchronous communication. This has huge benefits
+not just in helping with people who are are in different timezones but also creating
+a written record of decisions and learnings that can be referneced later.
+
+### Running Notes
+For meetings and team syncs, a format we often use is a single hackmd where we keep track
+of of the agenda and results for each meeting adding a new heading and section at the top
+for the next meeting adding follow up items to the agenda. A good example are our
+[Chain Team Running Notes](https://centrifuge.hackmd.io/@vim/centchain/%2F8C_mW2TlSJWvKBZI_4T1Wg)
+
+
+## Scheduling meetings
+If you are not in your regular timezone, put an all day event into the team calendar indicating what time they
+can expect you to be avaialable online.
 
 When an absences is planned out and longer in time, think about any important events within that timeframe.
 Planning sessions, work events, releases. See who else is absent during that time. If the people you're most
@@ -63,7 +69,4 @@ around so others in the company can come to you for questions. But it could very
 would be the perfect time to be remote as no one in the office could want anything from you. If necessary check
 with your peers and make that call yourself.
 
-As a last consideration, we want the office to have an energetic and motivating atmosphere and a place where you
-can get inspired. That becomes a lot harder if our office is empty too often and will have an impact on the people
-that do come to the office. Keep this in the back of your head, if you feel like the office is often too empty,
-then maybe it's a good idea to adjust your own habits a bit and let your peers know that this is missing.
+

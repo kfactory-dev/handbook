@@ -14,9 +14,7 @@ import SEO from "../SEO";
 import "katex/dist/katex.css";
 
 const EditPage = ({ file }) => {
-  const GITHUB_BASE =
-    "https://github.com/centrifugeinc/handbook/tree/develop/docs";
-  const githubLink = `${GITHUB_BASE}/${file}`;
+  const githubLink = `https://github.com/kfactory-dev/handbook/tree/develop/docs/${file}`;
 
   return (
     <Box margin={{ top: "large" }}>

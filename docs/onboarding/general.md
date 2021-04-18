@@ -45,6 +45,8 @@ If you are not familiar with Github and git, the easiest way to use Git is using
 
 ## Where to go from there
 
+Read the following chapters in the onboarding section and take a look here!
+
 ### Information on Centrifuge
 
 - Read some of our most recent [tweets](https://twitter.com/centrifuge) and follow us. Find some of the more recent events we've been to (we usually tweet about them). Find a few recordings to watch to learn what's going on.
@@ -54,7 +56,7 @@ If you are not familiar with Github and git, the easiest way to use Git is using
 ### Code
 
 - Check out our code on [github.com/centrifuge](https://github.com/centrifuge)
-- Read the docs on [docs.centrifuge.io](https://developer.centrifuge.io)
+- Read the docs on [docs.centrifuge.io](https://docs.centrifuge.io)
 
 ## Scheduling time to talk to your team
 

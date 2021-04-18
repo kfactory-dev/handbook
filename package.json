@@ -2,7 +2,7 @@
   "name": "kfhandbook",
   "description": "A Decentralized Operating System For The Financial Supply Chain",
   "version": "0.1.0",
-  "author": "@centrifugeinc",
+  "author": "@kfactory-dev",
   "dependencies": {
     "@centrifuge/axis-nav-bar": "^0.3.2-develop.47",
     "@centrifuge/axis-theme": "0.3.1",
@@ -56,7 +56,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/centrifugeinc/handbook.git"
+    "url": "git+https://github.com/kfactory-dev/handbook.git"
   },
   "homepage": "https://handbook.k-f.co/"
 }
