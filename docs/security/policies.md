@@ -2,7 +2,7 @@
 id: policies
 order: 1
 title: Security Policies
-category: 3. Security
+category: 6. Security
 ---
 
 # The Best Security Policy
