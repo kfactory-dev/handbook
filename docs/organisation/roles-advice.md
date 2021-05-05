@@ -10,6 +10,7 @@ Any team member can start a Roles Advice Process (RAP) at any time if they feel 
 First, colleagues who should be involved to provide advice and consent or would be impacted are invited. This can be the whole organization, a circle or a smaller group. Consider creating a temporary Slack channel for discussion around the process and invite people into that.
 Second, the individual self-reflects (and can use other colleagues as a sounding board):
 Why am I doing this advice process? What led to this?
+
 What are my strengths, talents and interests? Where are they best put to use?
 What contribution am I currently making to the team? What’s working well? What could be better?
 Could I increase my impact by shifting or changing my role? In what ways, specifically? What could be gained? What could be lost? Who would assume current duties I’d like to hand off?
