@@ -5,7 +5,7 @@ title: General
 category: 2. Onboarding
 ---
 
-## Oops.. I’m here. What next?
+## Welcome aboard!
 
 Welcome to Centrifuge! We’re excited to have you on board. This document is meant to give some structure to
 your first week(s) at our amazing company.
