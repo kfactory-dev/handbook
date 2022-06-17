@@ -12,7 +12,7 @@ your first week(s) at our amazing company.
 
 ## Security
 
-Before setting up any of the tools, head over to our [security policy](../security/README.md) and give it a
+Before setting up any of the tools, head over to our [security policy](../../security/policies/) and give it a
 thorough read and keep it in mind when setting up accounts & password.
 
 ## Tools & Systems
@@ -21,7 +21,7 @@ Start by setting up 1Password. Then use a new auto-generated 20-character passwo
 2-factor authentication at all services that support it.
 
 We are working in the crypto-world. We will get hacked. Let’s not make it easy for the bad girls and guys.
-Read our [security policy](../it/security.md) and make sure to keep it in mind.
+Read our [security policy](../../security/policies/) and make sure to keep it in mind.
 
 You should have have access to:
 
@@ -66,4 +66,4 @@ When joining, your manager will suggest a few people to talk to. Ask them what a
 
 Head over to team specific onboarding tasks (if there are any):
 
-- [Engineering](engineering.md)
+- [Engineering](../engineering)

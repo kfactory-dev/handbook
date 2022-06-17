@@ -7,7 +7,7 @@ category: 2. Onboarding
 
 # Onboarding for engineers
 
-You should already be familiar with our general [onboarding document](general.md). The next steps should help you getting started with some engineering specific tasks.
+You should already be familiar with our general [onboarding document](./general). The next steps should help you getting started with some engineering specific tasks.
 
 ## Buddy
 
@@ -19,8 +19,8 @@ As a first step, start acquainting yourself with our tech stack from the user's 
 
 ## Understanding our process
 
-We don't follow scrum, waterfall or live in complete chaos. But we are trying to develop an engineering process that works for us. Read up on it [here](../engineering/process.md)
+We don't follow scrum, waterfall or live in complete chaos. But we are trying to develop an engineering process that works for us. Read up on it [here](../../engineering/process)
 
 ## Comitting code
 
-Now that you know a bit how we work, talk to your buddy and figure out what a first starting issue could be. We typically work in our own forks and use github pull requests. If anything in that process is unclear, you can [read up on it](../engineering/workflow.md).
+Now that you know a bit how we work, talk to your buddy and figure out what a first starting issue could be. We typically work in our own forks and use github pull requests. If anything in that process is unclear, you can [read up on it](../../engineering/workflow).
