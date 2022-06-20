@@ -1,4 +1,4 @@
-# Centrifuge Developer's Handbook
+#  k/f's Organizational Handbook
 
 Our Handbook is the place where we write down the conventions, practices and knowledge that concerns our team and company. It is a public handbook that documents our culture, our ways of working and our goals.
 
