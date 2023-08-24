@@ -7,7 +7,7 @@ category: 1. General
 
 Whenever you are making changes to the handbook, please summarize them briefly here.
 
-## YYYY-MM-DD: Short Descriptio (Authors)
+## YYYY-MM-DD: Short Description (Authors)
 * List of individual changes
 
 ## 2021-04-15: Onboarding Section Updates (lucasvo)
